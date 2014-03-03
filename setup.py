@@ -76,4 +76,5 @@ with VenvLinkDeleted():
             'Programming Language :: Python :: 3',
             'Topic :: Utilities',
         ],
+        zip_safe=False,
     )
